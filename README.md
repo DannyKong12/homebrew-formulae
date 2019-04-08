@@ -13,7 +13,7 @@ Tap this repo
 
 Install
 
-`brew tap DannyKong12/python`
+`brew install DannyKong12/python --ignore-dependencies`
 
 Switch to the correct version of python
 
