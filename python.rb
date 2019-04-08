@@ -29,6 +29,7 @@ class Python < Formula
   deprecated_option "with-brewed-tk" => "with-tcl-tk"
 
   depends_on "pkg-config" => :build
+  depends_on "DannyKong12/formulae/sphinx-doc" => :build
   depends_on "gdbm"
   depends_on "openssl"
   depends_on "readline"
