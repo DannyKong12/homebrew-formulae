@@ -9,11 +9,11 @@ If python3.7 is already installed, unlink it with
 
 Tap this repo
 
-`brew tap DannyKong12/python`
+`brew tap DannyKong12/formulae`
 
 Install
 
-`brew install DannyKong12/python --ignore-dependencies`
+`brew install DannyKong12/formulae/python --ignore-dependencies`
 
 Switch to the correct version of python
 
